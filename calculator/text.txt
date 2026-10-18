@@ -1,0 +1,5 @@
+Hello, this is a text file created by the assistant.
+
+This file contains some sample text to demonstrate the write_file function.
+
+You can replace this content with anything you need!
